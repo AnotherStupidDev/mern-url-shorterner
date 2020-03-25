@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "mongoURI":"mongodb+srv://taskapp:zhopa777@testingcluster-h0y5g.mongodb.net/appUser",
+    "jwtSecret":"chetkiikluch",
+    "baseUrl":"http://localhost:5000"
+}
